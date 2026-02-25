@@ -19,8 +19,7 @@ print("MehmetAtaSuyabatmaz")
 
 # print(list1[0])
 
-for i in list1:
-    print(i)
+
 
 
 
